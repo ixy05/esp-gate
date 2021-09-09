@@ -28,7 +28,7 @@ I purchased them both from here: https://www.aliexpress.com/item/4000420770002.h
 Any reed switch will work. Must be closed when gate is closed. Not required as code can be altered. 
 
 # Static IP
- Set a static IP address for your esp8266. Differes from router to router so it will not be discussed in this guide. 
+ Set a static IP address for your esp8266. Differs from router to router so it will not be discussed in this guide. 
  
  # Gate
  Must have a trigger pin that is able to be triggered using a relay. 
