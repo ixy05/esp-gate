@@ -17,6 +17,9 @@ The windows 10 version was used as a service. How to do this is here https://git
 # homebridge-http-garage
 Install this plugin as seen here: https://github.com/Tommrodrigues/homebridge-http-garage#installation
 
+The configuartion of this plugin I used that works with the esp8266 program is here:
+*****
+
 # esp8266 D1 mini
 Any esp8266 can be used but the D1 mini is really easy to work with and has many avalible shields. I also used the D1 mini relay sheild.
 I purchased them both from here: https://www.aliexpress.com/item/4000420770002.html
