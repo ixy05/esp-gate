@@ -18,7 +18,17 @@ The windows 10 version was used as a service. How to do this is here https://git
 Install this plugin as seen here: https://github.com/Tommrodrigues/homebridge-http-garage#installation
 
 The configuartion of this plugin I used that works with the esp8266 program is here:
-*****
+```
+{
+            "accessory": "GarageDoorOpener",
+            "name": "gate",
+            "apiroute": "http://192.168.0.32",
+            "openTime": "10",
+            "closeTime": "7",
+            "pollInterval": "1000"
+}
+```
+The IP address is dependant on your situation. You should be able to obtain this through your router settings. More on this plugin can be found at the link in the requirements section.
 
 # esp8266 D1 mini
 Any esp8266 can be used but the D1 mini is really easy to work with and has many avalible shields. I also used the D1 mini relay sheild.
